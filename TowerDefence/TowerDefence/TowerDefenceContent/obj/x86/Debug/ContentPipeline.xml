@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Towers\Tower.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Towers\Tower.xnb</Output>
       <Time>2012-03-27T01:09:54.56082+03:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Creeps\Creep.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Creeps\Creep.xnb</Output>
       <Time>2012-03-27T02:19:55.85112+03:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Bullets\Bullet.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Bullets\Bullet.xnb</Output>
       <Time>2012-03-27T02:33:17.4029662+03:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Menu\menu-back.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Menu\menu-back.xnb</Output>
       <Time>2012-03-28T05:27:28.8664915+03:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Maps\mud.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Maps\mud.xnb</Output>
       <Time>2012-03-28T07:15:34.6984599+03:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Maps\road.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Maps\road.xnb</Output>
       <Time>2012-03-28T08:37:53.8619639+03:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Buttons\button-back.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Buttons\button-back.xnb</Output>
       <Time>2012-03-28T21:12:39.9516115+03:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\game-over.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\game-over.xnb</Output>
       <Time>2012-03-28T23:32:24.216164+03:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\denied.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\denied.xnb</Output>
       <Time>2012-03-29T03:12:34.0707245+03:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Towers\FireTower.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Towers\FireTower.xnb</Output>
       <Time>2012-03-29T04:38:25.3853628+03:00</Time>
     </Item>
     <Item>
@@ -97,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Towers\IceTower.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Towers\IceTower.xnb</Output>
       <Time>2012-03-29T04:48:30.8619941+03:00</Time>
     </Item>
     <Item>
@@ -106,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Towers\LightningTower.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Towers\LightningTower.xnb</Output>
       <Time>2012-03-29T04:50:37.8932599+03:00</Time>
     </Item>
     <Item>
@@ -115,7 +115,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Bullets\FireBullet.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Bullets\FireBullet.xnb</Output>
       <Time>2012-03-29T05:07:38.3526268+03:00</Time>
     </Item>
     <Item>
@@ -124,7 +124,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Bullets\IceBullet.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Bullets\IceBullet.xnb</Output>
       <Time>2012-03-29T05:13:27.8276157+03:00</Time>
     </Item>
     <Item>
@@ -133,7 +133,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Bullets\LightningBullet.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Bullets\LightningBullet.xnb</Output>
       <Time>2012-03-29T05:15:25.9193701+03:00</Time>
     </Item>
     <Item>
@@ -142,7 +142,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Menu\Font1.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Menu\Font1.xnb</Output>
       <Time>2012-03-28T05:41:54.9060262+03:00</Time>
     </Item>
     <Item>
@@ -151,7 +151,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Menu\costFont.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Menu\costFont.xnb</Output>
       <Time>2012-03-28T06:01:19.4706354+03:00</Time>
     </Item>
     <Item>
@@ -160,7 +160,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Buttons\ButtonFont.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Buttons\ButtonFont.xnb</Output>
       <Time>2012-03-28T21:30:42.3545214+03:00</Time>
     </Item>
     <Item>
@@ -169,7 +169,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Towers\towerFont.xnb</Output>
+      <Output>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Towers\towerFont.xnb</Output>
       <Time>2012-03-28T23:35:23.0903951+03:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -178,10 +178,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefenceContent\</RootDirectory>
-      <LoggerRootDirectory>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefenceContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\MyWorks\Coder\Graphic\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefenceContent\</RootDirectory>
+      <LoggerRootDirectory>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefenceContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\MyWorks\Coder\Graphic\XNATowerDefence\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
